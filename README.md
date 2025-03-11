@@ -9,7 +9,7 @@ Este projeto é um dashboard interativo de Recursos Humanos, desenvolvido com **
 - 🔎 Filtros dinâmicos para explorar os dados.
 
 ## 🖼️ Capturas de Tela
-<img  src="https://github.com/Emanoellima-dev/dashboard-RH/blob/main/imagens/Screenshot_20250311-110734-1.jpg"
+<img  src="https://github.com/Emanoellima-dev/dashboard-RH/blob/main/imagens/Screenshot_20250311-142344-1.jpg"
 />
 
 ## 🛠️ Tecnologias Utilizadas
