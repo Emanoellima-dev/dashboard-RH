@@ -17,3 +17,6 @@ Este projeto é um dashboard interativo de Recursos Humanos, desenvolvido com **
 - **Dash** 📊
 - **Plotly** 🎨
 - **Pandas** 📑
+
+## Observações
+Esse é apenas um dashboard simples. feito apenas com o objetivo de aprimorar meus conhecimentos. por isso não estou aceitando contribuições ao projeto.
