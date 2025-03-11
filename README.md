@@ -1,6 +1,6 @@
 # 📊 Dashboard de RH com Python, Dash e Plotly
 
-Este projeto é um dashboard interativo de Recursos Humanos, desenvolvido com **Python**, **Dash**, **Pandas** e **Plotly**. Ele permite visualizar dados sobre funcionários, salários, contratações e distribuição de cargos dentro da empresa.
+Este projeto é um dashboard interativo de Recursos Humanos, desenvolvido com **Python**, **Dash**, **Pandas** e **Plotly**. Ele permite visualizar dados sobre funcionários, salários, contratações e distribuição de cargos dentro da empresa. os dados são de uma planilha do excel
 
 ## 🔥 Funcionalidades
 - 📌 Gráficos interativos para análise de dados.
