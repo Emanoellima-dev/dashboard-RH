@@ -3,10 +3,11 @@
 Este projeto é um dashboard interativo de Recursos Humanos, desenvolvido com **Python**, **Dash**, **Pandas** e **Plotly**. Ele permite visualizar dados sobre funcionários, salários, contratações e distribuição de cargos dentro da empresa. os dados são de uma planilha do excel
 
 ## 🔥 Funcionalidades
-- 📌 Gráficos interativos para análise de dados.
-- 📊 Distribuição de funcionários por área, gênero e faixa salarial.
-- 📈 Evolução das contratações ao longo dos anos.
-- 🔎 Filtros dinâmicos para explorar os dados.
+  - Gráfico de funcionários por cidade
+  - Gráfico de contratações por ano
+  - Comparação entre homens e mulheres na empresa
+  - Filtros dinâmicos por área e cargo
+  - Modo claro e escuro
 
 ## 🖼️ Capturas de Tela
 <img  src="https://github.com/Emanoellima-dev/dashboard-RH/blob/main/imagens/Screenshot_20250311-142344-1.jpg"
