@@ -11,6 +11,7 @@ template_theme1 = "vapor"
 template_theme2 = "flatly"
 
 app = Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 df = pd.read_excel("BaseFuncionarios.xlsx", sheet_name="Plan1")
 
