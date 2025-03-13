@@ -104,4 +104,4 @@ def update_graph(value, toggle):
     return [fig3, fig4, fig5]
     
 if __name__ == "__main__":
-  app.run(debug=True, port=8050)
+  app.run(debug=False, port=8050)
