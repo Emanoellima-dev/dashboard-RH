@@ -18,11 +18,9 @@ Jinja2==3.1.6
 MarkupSafe==3.0.2
 narwhals==1.29.0
 nest-asyncio==1.6.0
-numpy @ file:///home/builder/.termux-build/python-numpy/src/dist/numpy-2.2.3-cp312-cp312-linux_arm.whl#sha256=1ca102b0dab5278b0bb43dc375b0e2c3d62074cd0ce96c5784909c8617dc4b6c
 openpyxl==3.1.5
 packaging==24.2
-pandas @ file:///home/builder/.termux-build/python-pandas/src/dist/pandas-2.2.3-cp312-cp312-linux_arm.whl#sha256=132385353bac74ef436e475ca8c664145255cfdd2629462f1ed8dfa922b7d9ad
-plotly==6.0.0
+pandas==2.2.3
 python-dateutil==2.9.0.post0
 pytz==2025.1
 requests==2.32.3
