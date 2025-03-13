@@ -10,7 +10,12 @@ Este projeto é um dashboard interativo de Recursos Humanos, desenvolvido com **
   - Modo claro e escuro
 
 ## 🖼️ Imagens
+### Tema Escuro
 <img  src="https://github.com/Emanoellima-dev/dashboard-RH/blob/main/imagens/Screenshot_20250313-143955-1.jpg"
+/>
+
+### Tema Claro 
+<img  src="https://github.com/Emanoellima-dev/dashboard-RH/blob/main/imagens/Screenshot_20250313-144020-1.jpg"
 />
 
 ## 🛠️ Tecnologias Utilizadas
