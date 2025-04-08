@@ -4,7 +4,6 @@ import pandas as pd
 import plotly.express as px
 from dash_bootstrap_templates import ThemeSwitchAIO
 
-# temas
 url_theme1 = dbc.themes.VAPOR
 url_theme2 = dbc.themes.FLATLY
 template_theme1 = "vapor"
@@ -15,28 +14,22 @@ server = app.server
 
 df = pd.read_excel("BaseFuncionarios.xlsx", sheet_name="Plan1")
 
-# qtde de funcionarios por cidade
 func_por_cidade = df["Cidade"].value_counts().reset_index()
 func_por_cidade.columns = ["Cidade", "qtde de Funcionarios"]
 
-# qtde de Funcionarioa por cargo
 func_por_cargo = df["Cargo"].value_counts().reset_index()
 func_por_cargo.columns = ["Cargo", "qtde de Funcionarios"]
 
-# qtde Funcionarios por area
 func_por_area = df["Área"].value_counts().reset_index()
 func_por_area.columns = ["Area", "qtde de Funcionarios"]
 
-# Contratação anual
 df["Ano_Contratacao"] = pd.DatetimeIndex(df["Data de Contratacao"]).year
 contratacoes_por_ano = df["Ano_Contratacao"].value_counts().sort_index().reset_index()
 contratacoes_por_ano.columns = ["Ano", "Quantidade"]
 
-#  qtde de funcionarios por sexo
 func_por_sexo = df["Genero"].value_counts().reset_index()
 func_por_sexo.columns = ["Genero", "Quantidade"]
 
-# layout
 app.layout = dbc.Container([
     dbc.Row([
       dbc.Col([
